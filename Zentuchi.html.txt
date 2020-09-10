@@ -1,0 +1,52 @@
+﻿<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<!--Add about zen values-->
+<html>
+    <head>
+        <title>Zentuchi</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=0.0">
+    </head>
+    <body background="zen_img.jpg" style="background-size: contain ;background-repeat:no-repeat;background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;">
+    
+        <div style="background-color:lemonchiffon;font-size:14pt;opacity:0.8"><center>
+                <span class="main-heading"><br>Welcome to Zentuchi
+                    <a href="index.html"><button style="background-image: url('hbut.png');background-size: contain; width: 20pt;height: 20pt;position: fixed;right: 5%"></button></a></span><br><br> </center></div>
+   <br>
+    <a href="first.html"><br><button style="width:150pt; height: 30pt; opacity: 0.8; background-color:lemonchiffon">ABC</button></a>
+     <a href="second.html"><br><button style="width:150pt; height: 30pt; opacity: 0.8; background-color:lemonchiffon">CBE</button></a>
+         <br><button style="width:150pt; height: 30pt; opacity: 0.8; background-color:lemonchiffon">ABC</button>
+     <br><button style="width:150pt; height: 30pt; opacity: 0.8; background-color:lemonchiffon">CBE</button>
+         <br><button style="width:150pt; height: 30pt; opacity: 0.8; background-color:lemonchiffon">ABC</button>
+     <br><button style="width:150pt; height: 30pt; opacity: 0.8; background-color:lemonchiffon">CBE</button>
+     <div style="position:fixed;left:20%;top:17%;bottom:20%;right:20%;background-color: aliceblue;opacity:0.8"><br><center>Welcome to Zentuchi</center>
+         <br>
+         <div style="background-color: lemonchiffon; position: fixed;left:25%;top:25%;bottom:25%;right:25%;">
+         Have a nice day<div><br><br>
+    </div>
+    <div style="position:fixed;left:85%;top:17%;bottom:20%;right:1%;background-color: beige;opacity:0.8"><br><center>Advertisements</center>
+        <br>Add-text-here<br>
+    </div>
+         <div style="background-color:lemonchiffon;position:fixed;left:1%;bottom: 2%;opacity: 0.8;width: 100%"><br>
+             <label style="position: fixed;left:35%">Contact us:</label>
+             <a href="https://www.facebook.com/"><button  style="background-image: url('fbut.png');background-size: contain; width: 20pt;height: 20pt;position:fixed;left:43%"></button>           
+             </a><a href="whatsapp://send?text=Hi!&phone=+9198********1"><button  style="background-image: url('wbut.png');background-size: contain; width: 20pt;height: 20pt;position:fixed;left:46%"></button>     
+               </a>
+             <a href="https://twitter.com/"><button  style="background-image: url('tbut.png');background-size: contain; width: 20pt;height: 20pt;position:fixed;left:49%"></button>     
+               </a>
+             <a href="https://www.linkedin.com/"><button  style="background-image: url('lbut.jpg');background-size: contain; width: 20pt;height: 20pt;position:fixed;left:52%"></button>     
+               </a>
+             <a href="mailto:mituvd@gmail.com?subject=Queries"><button  style="background-image: url('gbut.png');background-size: contain; width: 20pt;height: 20pt;position:fixed;left:55%"></button></a> <!--email link--> 
+             <a href="tel:+9187541038547"><label style="position: fixed;left: 60%">+91##########</label></a>
+             <br>
+             <br>
+         </div>
+</body>
+</html>
